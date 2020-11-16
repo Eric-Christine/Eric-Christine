@@ -25,12 +25,15 @@ button{
 
 button a {
     color: black;
+    padding: 10px 5px;
 }
 
 button:hover{
     background-color: skyblue;
     color: white;
 }
+
+
 
 
 .portfolio{
@@ -47,20 +50,19 @@ button:hover{
 
 .card {
     width: 200px;
-    height: 300px;
+    height: 350px;
     border: 2px black solid;
     border-radius: 10px;
     background: beige;
     box-shadow: 5px 10px teal;
-    
 }
-.social_media {
-    list-style: none;
-}
+
+
 
 .noListDecoration{
     list-style: none;
 }
+
 
 /* footer */
 
