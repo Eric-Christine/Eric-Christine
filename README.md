@@ -1,10 +1,11 @@
 <h2>Hi There! Welcome to my GitHub Profile.</h2>
 <p>I am a 2020 graduate in sustainability from The Ohio State University. In January 2021, I completed the Full-Stack Software Engineering Program at FlatIron School where I learned Ruby on Rails, HTML, CSS, JavaScript, & React.</p>
-<p>Currently, I am a Software Engineer for Cycle Technology and a Web Developer for Schwing Marketing.</p>
+<p>Currently...</p>
 <ul>
   <li>💻 Web Developer @ Cycle Technology </li>
   <li>💻 Web Developer @ Schwing Marketing </li>
   <li>📚 Working on a React ECommerce Site</li>
+  <li>📚 Keeping HTML & CSS Skills sharp on Team Treehouse</li>
 </ul>
 
 <h3>Mission Statement</h3>
