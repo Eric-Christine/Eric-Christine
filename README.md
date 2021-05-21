@@ -6,6 +6,7 @@
   <li>💻 Web Developer @ Schwing Marketing </li>
   <li>📚 Working on a React ECommerce Site</li>
   <li>📚 Keeping HTML & CSS Skills sharp on Team Treehouse</li>
+  <li>🐥 <a target ="_blank" href="https://twitter.com/ejc_dev"> Tweeting</a> my journey of 100 days of Code</li>
 </ul>
 
 <h3>Mission Statement</h3>
