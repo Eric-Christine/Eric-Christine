@@ -14,6 +14,5 @@
 </i></p>
 
 <p>
-  I am looking for an opportunity to continue my professional development as a web developer and grow into becoming an invaluable member of your team. Please let me know if you have any questions about me or my past experiences. Open to relocation.
-
+  I am looking for an opportunity to continue my professional development as a web developer and grow into becoming an invaluable member of your team. Please let me know if you have any questions about me, my work, or my past experiences. Open to relocation.
  </p>
