@@ -5,6 +5,7 @@
   <li>💻 Web Developer @ Cycle Technology </li>
   <li>💻 Web Developer @ TrueSense Marketing </li>
   <li>📚 Working on a React ECommerce Site</li>
+  <li>📚 Working on <a href="https://trailblazer.me/id/echristine">Salesforce Trailheads</li>
   <li>📚 Keeping HTML, CSS, & JS Skills sharp on Team Treehouse</li>
   <li>🐥 <a target ="_blank" href="https://twitter.com/ejc_dev"> Tweeting</a> my journey of 100 days of Code</li>
 </ul>
