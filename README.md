@@ -4,7 +4,7 @@
 <ul>
   <li>💻 Web Developer II @ TrueSense Marketing </li>
     <li>💻 EX-Web Developer @ Cycle Technology (ACQUIRED BY RTS) </li>
-  <li>📚 Working on a React ECommerce Site</li>
+  <li>📚 Building with top AI models from OpenAI, DeepSeek, Anthropic</li>
   <li>📚 Working on <a href="https://trailblazer.me/id/echristine">Salesforce Trailheads</li>
   <li>📚 Keeping HTML, CSS, & JS Skills sharp on Team Treehouse</li>
   <li>🐥 <a target ="_blank" href="https://twitter.com/ejc_dev"> Tweeting</a> my journey of 100 days of Code</li>
