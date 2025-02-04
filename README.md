@@ -2,8 +2,8 @@
 <p>I am a 2020 graduate in sustainability from The Ohio State University. In January 2021, I completed the Full-Stack Software Engineering Program at FlatIron School where I learned Ruby on Rails, HTML, CSS, JavaScript, & React.</p>
 <p>Currently...</p>
 <ul>
-  <li>💻 Web Developer @ Cycle Technology </li>
-  <li>💻 Web Developer @ TrueSense Marketing </li>
+  <li>💻 Web Developer II @ TrueSense Marketing </li>
+    <li>💻 EX-Web Developer @ Cycle Technology (ACQUIRED BY RTS) </li>
   <li>📚 Working on a React ECommerce Site</li>
   <li>📚 Working on <a href="https://trailblazer.me/id/echristine">Salesforce Trailheads</li>
   <li>📚 Keeping HTML, CSS, & JS Skills sharp on Team Treehouse</li>
