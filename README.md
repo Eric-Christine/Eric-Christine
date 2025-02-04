@@ -1,5 +1,5 @@
 <h2>Hi There! Welcome to my GitHub Profile.</h2>
-<p>I am a 2020 graduate in sustainability from The Ohio State University. In January 2021, I completed the Full-Stack Software Engineering Program at FlatIron School where I learned Ruby on Rails, HTML, CSS, JavaScript, & React.</p>
+<p>I have B.S. in Environment, Economics, Development and Sustainability from The Ohio State University. In January 2021, I completed the Full-Stack Software Engineering Program at FlatIron School where I learned Ruby on Rails, HTML, CSS, JavaScript, & React.</p>
 <p>Currently...</p>
 <ul>
   <li>💻 Web Developer II @ TrueSense Marketing </li>
