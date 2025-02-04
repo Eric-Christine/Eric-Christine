@@ -2,7 +2,7 @@
 <p>I have B.S. in Environment, Economics, Development and Sustainability from The Ohio State University. In January 2021, I completed the Full-Stack Software Engineering Program at FlatIron School where I learned Ruby on Rails, HTML, CSS, JavaScript, & React.</p>
 <p>Currently...</p>
 <ul>
-  <li>💻 Web Developer II @ TrueSense Marketing </li>
+  <li>💻 Web Developer II @ TrueSense Marketing | Focus on Execution of Fundraising Campaigns for NonProfits </li>
     <li>💻 EX-Web Developer @ Cycle Technology (ACQUIRED BY RTS) </li>
   <li>📚 Building with top AI models from OpenAI, DeepSeek, Anthropic</li>
   <li>📚 Working on <a href="https://trailblazer.me/id/echristine">Salesforce Trailheads</li>
