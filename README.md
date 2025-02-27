@@ -1,5 +1,5 @@
 <h2>Hi There! My name is Eric</h2>
-<p>Background: I have B.S. in Environment, Economics, Development and Sustainability from The Ohio State University. In January 2021, I completed the Full-Stack Software Engineering Program at FlatIron School where I learned Ruby on Rails, HTML, CSS, JavaScript, & React.</p>
+<p>I'm building apps for sustainability education</p>
 <p>Currently...</p>
 <ul>
   <li>💻 Web Developer II @ TrueSense Marketing | Focus on Execution of Fundraising Campaigns for NonProfits </li>
