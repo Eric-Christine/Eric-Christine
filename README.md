@@ -5,7 +5,6 @@
   <li>💻 Web Developer II @ TrueSense Marketing | Focus on Execution of Fundraising Campaigns for NonProfits </li>
     <li>💻 EX-Web Developer @ Cycle Technology (ACQUIRED BY RTS) </li>
   <li>📚 Building with top AI models Gemini & Claude</li>
-  <li>🐥 <a target ="_blank" href="https://twitter.com/ejc_dev"> Tweeting</a> my journey of 100 days of Code</li>
 </ul>
 
 <p>
